@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d4db844-217d-4fb8-b455-ee64a5f8fa1b" name="delivery_server">
+        <fileTransfer rootFolder="/home/deliveryuser/api" accessType="SFTP" host="192.124.171.196" port="22" sshConfigId="a9840cc4-3a0a-453d-b750-873116bf994d" sshConfig="deliveryuser@192.124.171.196:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
